@@ -61,8 +61,6 @@ struct F2_POPULATION
 };
 struct F_INDIVIDUAL
 {
-	/*F1_INDIVIDUAL f1;
-	F2_INDIVIDUAL f2;*/
 	//double m_f1_var[F1_NVAR];
 	//double m_f2_var[F2_NVAR];
 	double m_f1_obj;
